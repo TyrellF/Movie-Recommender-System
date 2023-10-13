@@ -1,12 +1,21 @@
-# movie-recommender-system
-
-Creating a README file is essential to provide users and collaborators with information about your dynamic Movie Recommendation System. It helps them understand the project's purpose, how to use it, and any relevant details. Here's a template for a README file:
-
 # Movie Recommendation System
+
+<p align="center">
+    Welcome to our project!
+    <br />
+    <br />
+    <a href="https://drive.google.com/drive/folders/1EDXQySfoMOkIt4zfvnXAuMLtSNsPyujP?usp=sharing">View Video</a>
+    ·
+    <a href="https://diagnosify.streamlit.app/">View Deployment</a>
+  </p>
+</div>
+
 
 ## Project Overview
 
 This Movie Recommendation System is a dynamic web application that uses Machine Learning, HTML/CSS, and JavaScript to provide personalized movie recommendations. It has been integrated with Streamlit for an interactive user experience and deployed on Streamlit Cloud for easy access. The system was developed using Anaconda and Jupyter for data preprocessing and algorithm implementation.
+
+
 
 ## Table of Contents
 
