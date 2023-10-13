@@ -4,7 +4,7 @@
     Welcome to our project!
     <br />
     <br />
-    <a href="https://drive.google.com/drive/folders/1EDXQySfoMOkIt4zfvnXAuMLtSNsPyujP?usp=sharing">View Video</a>
+    <a href="https://drive.google.com/file/d/1HKcBoE5gXu_Pye8B3R9MjkMbqO014R7F/view?usp=sharing">View Video</a>
     ·
     <a href="https://movie-recommender-system-ug-project.streamlit.app/">View Deployment</a>
   </p>
