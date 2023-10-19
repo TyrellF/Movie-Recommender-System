@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 <p align="center">
-    Welcome to our project!
+    Welcome to Machine Learning Project!
     <br />
     <br />
     <a href="https://drive.google.com/file/d/1HKcBoE5gXu_Pye8B3R9MjkMbqO014R7F/view?usp=sharing">View Video</a>
@@ -72,3 +72,24 @@ Dataset used:- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 - `requirements.txt`: Lists the required Python packages.
 
 ## Screenshots
+
+Recommended Movies Based on Selected Movie
+
+![Screenshot 2023-10-19 123741](https://github.com/TyrellF/movie-recommender-system/assets/100986495/4df95728-2a6f-4516-baa4-ed0bce2d4487)
+
+Details of Selected Movie
+
+![Screenshot 2023-10-19 124116](https://github.com/TyrellF/movie-recommender-system/assets/100986495/5c6caf9a-afcd-4956-b7a9-74129b39c5aa)
+
+Currently Trending Movies
+
+![Screenshot 2023-10-19 124414](https://github.com/TyrellF/movie-recommender-system/assets/100986495/317ad5b7-a182-45e1-b02c-c6f762c2f89c)
+
+User Ratings and Reviews
+
+![Screenshot 2023-10-19 124342](https://github.com/TyrellF/movie-recommender-system/assets/100986495/25f7cd45-010c-4731-836e-752160fb42f4)
+
+Genre Filters
+
+![Screenshot 2023-10-19 124446](https://github.com/TyrellF/movie-recommender-system/assets/100986495/f2f4bc23-c200-4f11-8e93-a31a394be988)
+
